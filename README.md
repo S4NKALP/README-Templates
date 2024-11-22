@@ -56,14 +56,6 @@ Provide instructions on how to install the project and any dependencies.
 
 Offer information on how to use the project, including sample code, to help users make the most of it.
 
-## Contributing
-
-Explain the contribution guidelines and procedures for contributing to the project.
-
-## License
-
-Specify the project's license information here.
-
 ---
 
 To use this template, follow these steps:
@@ -73,4 +65,3 @@ To use this template, follow these steps:
 3. Make the necessary changes and modifications.
 4. Commit and push your changes.
 5. Create a pull request to the original repository.
-
