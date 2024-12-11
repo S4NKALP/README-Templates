@@ -60,7 +60,7 @@ Offer information on how to use the project, including sample code, to help user
 
 To use this template, follow these steps:
 
-1. [Fork the repository](https://github.com/your-username/your-repo/fork).
+1. [Fork the repository](https://github.com/S4NKALP/README-Templates/fork).
 2. Clone the forked repository to your local environment.
 3. Make the necessary changes and modifications.
 4. Commit and push your changes.
