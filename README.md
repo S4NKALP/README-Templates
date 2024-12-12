@@ -6,9 +6,6 @@
 
 <p align="center">
 
-  <a href="https://github.com/your-username/repos/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/your-username/repos?style=flat&color=eee&label="> </a>
-
 <a href="https://github.com/your-username/repos/graphs/contributors">
 <img alt="People" src="https://img.shields.io/github/contributors/your-username/repos?style=flat&color=ffaaf2&label=People"> </a>
 
